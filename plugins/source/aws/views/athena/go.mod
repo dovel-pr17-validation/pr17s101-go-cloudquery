@@ -3,7 +3,7 @@ module github.com/cloudquery/cloudquery/plugins/source/aws/views/athena
 go 1.22.4
 
 require (
-	github.com/aws/aws-lambda-go v1.47.0
+	github.com/aws/aws-lambda-go v1.54.0
 	github.com/aws/aws-sdk-go-v2 v1.30.5
 	github.com/aws/aws-sdk-go-v2/config v1.27.33
 	github.com/aws/aws-sdk-go-v2/service/athena v1.44.7
